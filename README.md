@@ -15,9 +15,9 @@
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-🔭  &nbsp;I’m currently working on **Alelo Brasil**
+🔭  &nbsp; I’m currently working on **Alelo Brasil**
 <br/>
-🌱  I’m currently learning about **Technology and People**
+🌱  &nbsp; I’m currently learning about **Technology and People**
 
 <!--
 **ewertondias/ewertondias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
