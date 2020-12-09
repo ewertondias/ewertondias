@@ -43,6 +43,14 @@ Here are some ideas to get you started:
       height="40"
   />
 </a>
+<a href="https://www.oracle.com/" target="_blank">
+  <img
+      src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"
+  />
+</a>
 <a href="https://aws.amazon.com" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
