@@ -15,8 +15,9 @@
 </p>
 
 ### Hi there 👋
-🔭 I’m currently working on ** Alelo Brasil **
-🌱 I’m currently learning about ** Technology and People **
+- 🔭  I’m currently working on ** Alelo Brasil **
+<br/>
+- 🌱  I’m currently learning about ** Technology and People **
 
 <!--
 **ewertondias/ewertondias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
