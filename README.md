@@ -91,3 +91,7 @@ Here are some ideas to get you started:
       height="40"
   />
 </a>
+
+### Contacts
+* [LinkedIn](https://www.linkedin.com/in/ewertondsdias/)
+* ewertondsdias@gmail.com
