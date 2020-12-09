@@ -51,6 +51,14 @@ Here are some ideas to get you started:
       height="40"
   />
 </a>
+<a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+  />
+</a>
 <a href="https://aws.amazon.com" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -71,14 +79,6 @@ Here are some ideas to get you started:
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
-  />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
       width="40"
       height="40"
   />
