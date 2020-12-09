@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <a href="https://www.java.com/" target="_blank">
   <img
-      src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg"
+      src="https://devicon.dev/devicon.git/icons/java/java-original.svg"
       alt="java"
       width="40"
       height="40"
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg"
       alt="aws"
       width="40"
       height="40"
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"
       alt="docker"
       width="40"
       height="40"
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
