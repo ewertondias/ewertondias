@@ -14,8 +14,8 @@
   </a>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-🔭  &nbsp; I’m currently working on **Alelo Brasil**
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/gifs/Hi.gif" width="30px"></h2>
+🧑‍💻	  &nbsp; I’m currently working on **Alelo Brasil**
 <br/>
 🌱  &nbsp; I’m currently learning about **Technology and People**
 
