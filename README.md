@@ -15,7 +15,7 @@
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-🧑‍💻	  &nbsp; I’m currently working on **Alelo Brasil**
+:technologist: &nbsp; I’m currently working on **Alelo Brasil**
 <br/>
 :open_book: &nbsp; I’m currently learning about **Technology and People**
 
