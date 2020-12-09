@@ -35,3 +35,11 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools
+<a href="https://aws.amazon.com" target="_blank">
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+  />
+</a>
