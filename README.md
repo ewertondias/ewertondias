@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 <a href="https://www.java.com/">
-  <img align="left" alt="Java" width="37px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/java-orange.svg" />
+  <img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/java.svg" />
 </a>
 
 <a href="https://www.oracle.com/">
