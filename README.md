@@ -44,69 +44,32 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools
-
 <a href="https://www.java.com/">
-  <img align="left" alt="Ewerton Dias Linkedin" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-</a>
-<a href="https://www.java.com/">
-  <img align="left" alt="Ewerton Dias Linkedin" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </a>
 
-<a href="https://www.java.com/" target="_blank">
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-  />
+<a href="https://www.oracle.com/">
+  <img align="left" alt="Oracle" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 </a>
-<a href="https://www.oracle.com/" target="_blank">
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-  />
+
+<a href="https://www.mongodb.com/">
+  <img align="left" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-  />
+
+<a href="https://aws.amazon.com">
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-      original.svg" />
 </a>
-<a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-      alt="aws"
-      width="40"
-      height="40"
-  />
+
+<a href="https://www.docker.com/">
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 </a>
-<a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-      alt="docker"
-      width="40"
-      height="40"
-  />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-  />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="react"
-      width="40"
-      height="40"
-  />
+
+<a href="https://reactjs.org/">
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </a>
 
 ### Contacts
