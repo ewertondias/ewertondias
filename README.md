@@ -21,11 +21,11 @@
 </a>
 
 <a href="https://www.instagram.com/ewertonsdias">
-  <img align="left" alt="Ewerton Dias Instagram" width="23px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/instagram.svg" />
+  <img align="left" alt="Ewerton Dias Instagram" width="24px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/instagram.svg" />
 </a>
 
 <a href="mailto:ewertondsdias@gmail.com">
-  <img align="left" alt="Ewerton Dias Gmail" width="27px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/gmail-1.svg" />
+  <img align="left" alt="Ewerton Dias Gmail" width="26px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/gmail-1.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ewertondias)
