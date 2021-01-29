@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/ewertondias">
-  <img align="left" alt="Ewerton Dias Github" width="22px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/github-blue.svg" />
+  <img align="left" alt="Ewerton Dias Gmail" width="22px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/gmail.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ewertondias)
