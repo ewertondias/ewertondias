@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 <a href="https://www.java.com/">
-  <img align="left" alt="Ewerton Dias Linkedin" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="Ewerton Dias Linkedin" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </a>
 <a href="https://www.java.com/">
-  <img align="left" alt="Ewerton Dias Linkedin" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="Ewerton Dias Linkedin" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </a>
 
 <a href="https://www.java.com/" target="_blank">
