@@ -15,6 +15,12 @@
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 :technologist: &nbsp; I’m currently working on **Alelo Brasil**
 <br/>
 :open_book: &nbsp; I’m currently learning about **Technology and People**
