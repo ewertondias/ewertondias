@@ -53,29 +53,29 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 <a href="https://www.java.com/">
-  <img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/java-original.svg" />
 </a>
 
 <a href="https://www.oracle.com/">
-  <img align="left" alt="Oracle" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+  <img align="left" alt="Oracle" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/oracle-original.svg" />
 </a>
 
 <a href="https://www.mongodb.com/">
-  <img align="left" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img align="left" alt="MongoDB" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/mongodb-original.svg" />
 </a>
 
 <a href="https://aws.amazon.com">
-  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-      original.svg" />
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/icons/assets/aws.svg" />
 </a>
 
 <a href="https://www.docker.com/">
-  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img align="left" alt="Docker" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/docker-original.svg" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/javascript-original.svg" />
 </a>
 
 <a href="https://reactjs.org/">
-  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="left" alt="React" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/react-original.svg" />
 </a>
