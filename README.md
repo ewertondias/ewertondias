@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://aws.amazon.com">
-  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/icons/assets/aws.svg" />
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/aws.svg" />
 </a>
 
 <a href="https://www.docker.com/">
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/javascript-original.svg" />
+  <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/javascript.svg" />
 </a>
 
 <a href="https://reactjs.org/">
