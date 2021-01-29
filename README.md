@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.oracle.com/" target="_blank">
   <img
-      src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
       alt="oracle"
       width="40"
       height="40"
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
       alt="aws"
       width="40"
       height="40"
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
       alt="docker"
       width="40"
       height="40"
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
