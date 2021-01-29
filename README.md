@@ -2,14 +2,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondiasdsasadsadsadsdasdsad&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondias&layout=compact&theme=dark"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ewertondiassdasdadsadasdad&count_private=true&theme=dark&show_icons=true&custom_title=Ewerton%20Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=ewertondias&count_private=true&theme=dark&show_icons=true&custom_title=Ewerton%20Github%20Status&hide=issues"
     />
   </a>
 </p>
