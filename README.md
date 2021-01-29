@@ -26,7 +26,7 @@
 
 
 <a href="mailto:ewertondsdias@gmail.com">
-  <img align="left" alt="Ewerton Dias Gmail" width="22px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/gmail.svg" />
+  <img align="left" alt="Ewerton Dias Gmail" width="22px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/gmail-1.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ewertondias)
