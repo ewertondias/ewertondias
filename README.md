@@ -17,12 +17,15 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ewerton Dias Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=ewertondias)
+
+<br />
 
 :technologist: &nbsp; I’m currently working on **Alelo Brasil**
-<br/>
+<br />
 :open_book: &nbsp; I’m currently learning about **Technology and People**
 
 <!--
