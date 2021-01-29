@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/ewertondsdias">
-  <img align="left" alt="Ewerton Dias Github" width="22px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/github-white.png" />
+  <img align="left" alt="Ewerton Dias Github" width="22px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/github-white.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ewertondias)
