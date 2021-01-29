@@ -16,7 +16,11 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://www.linkedin.com/in/ewertondsdias">
+  <img align="left" alt="Ewerton Dias Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/ewertondsdias">
   <img align="left" alt="Ewerton Dias Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -71,7 +75,3 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/">
   <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </a>
-
-### Contacts
-* [LinkedIn](https://www.linkedin.com/in/ewertondsdias/)
-* ewertondsdias@gmail.com
