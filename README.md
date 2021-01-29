@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.instagram.com/ewertonsdias">
-  <img align="left" alt="Ewerton Dias Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagramtinsta.svg" />
+  <img align="left" alt="Ewerton Dias Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 
 
