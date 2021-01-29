@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 <a href="https://www.java.com/">
-  <img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/java-original.svg" />
+  <img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/java-orange.svg" />
 </a>
 
 <a href="https://www.oracle.com/">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://aws.amazon.com">
-  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/aws.svg" />
+  <img align="left" alt="AWS" width="42px" src="https://raw.githubusercontent.com/ewertondias/ewertondias/master/assets/aws-orange.svg" />
 </a>
 
 <a href="https://www.docker.com/">
