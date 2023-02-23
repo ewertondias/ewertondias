@@ -32,7 +32,7 @@
 
 <br />
 
-:technologist: &nbsp; I’m currently working as a software developer
+:technologist: &nbsp; I’m currently working as a software engineer
 <br />
 :open_book: &nbsp; I’m currently learning about **Technology and People**
 
